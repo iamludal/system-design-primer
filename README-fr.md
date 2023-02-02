@@ -8,9 +8,9 @@
 </p>
 
 ## Motivation
-> Apprendre a concevoir des systèmes à grande échelle.
+> Apprendre à concevoir des systèmes à grande échelle.
 >
-> Préparation pour les entretiens.
+> Se préparer aux entretiens.
 
 ### Apprendre à concevoir des systèmes à grande échelle
 
@@ -18,26 +18,26 @@ Apprendre à concevoir des systèmes à grande échelle vous permettra de deveni
 
 La conception de systèmes est un vaste sujet. Une **grande quantité de ressources** traite des principes de la conception de systèmes, **mais est dispersée sur le web****.
 
-Ce dossier est une **collection organisée** de ressources disponibles, pour vous aider à apprendre à créer des systèmes à grande échelle.
+Ce dépôt est une **collection organisée** de ressources disponibles pour vous aider à apprendre à créer des systèmes à grande échelle.
 
 ### Apprendre de la communauté open source
 
-C'est un dépôt open source continuellement mis à jour.
+Ce projet est open source et mis à jour en continu.
 
-Vos [Contributions](#contributing) sont les bienvenues !
+Vos [contributions](#contributing) sont les bienvenues !
 
-### Préparation pour les entretiens de conception de systèmes
+### Se préparer aux entretiens
 
-En plus des entretiens de code, la conception de système est un **composant requis** du **processus d'entretien technique** dans plusieurs entreprises tech.
+En plus des entretiens de code, la conception de systèmes est un **composant requis** du **processus d'entretien technique** dans de nombreuses entreprises tech.
 
-**Répondez aux questions communes d'entretien de conception système** et **comparez** vos résultats avec les **exemples de solutions**: discussions, code, et diagrammes.
+**Répondez aux questions communes d'entretiens de conception de systèmes** et **comparez** vos résultats avec les **exemples de solutions**: discussions, code, et schémas.
 
-Sujets supplémentaires pour la préparation de l'entretien:
+Sujets supplémentaires pour la préparation des entretiens :
 
 * [Guide d'étude](#study-guide)
 * [Comment appréhender les questions de conception de système](#how-to-approach-a-system-design-interview-question)
 * [Questions de conception de système, **avec solutions**](#system-design-interview-questions-with-solutions)
-* [Questions de conception Orientée objet, **avec solutions**](#object-oriented-design-interview-questions-with-solutions)
+* [Questions de conception orientée objet, **avec solutions**](#object-oriented-design-interview-questions-with-solutions)
 * [Questions de conception de systèmes supplémentaires](#additional-system-design-interview-questions)
 
 ## Cartes illustrées Anki
@@ -47,24 +47,24 @@ Sujets supplémentaires pour la préparation de l'entretien:
   <br/>
 </p>
 
-La [Bibliothèque de carte illustrées Anki](https://apps.ankiweb.net/) fournie utilise des répétitions espacées pour vous aider à retenir les concepts clés de la conception de système.
+La [bibliothèque de cartes illustrées Anki](https://apps.ankiweb.net/) fournie utilise des répétitions espacées pour vous aider à retenir les concepts clés de la conception de systèmes.
 
 * [Bibliothèque de conception de systèmes](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
 * [Bibliothèque d'exercices de conception de systèmes](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
-* [Bibliothèque d'exercices d'Orientée objet](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
+* [Bibliothèque d'exercices d'orientée objet](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
 
 Idéal pour les déplacements.
 
-### Ressource de programmation: Défis intéractifs de programmation
+### Ressource de Programmation : Défis Intéractifs de Programmation
 
-À la recherche de ressources pour vous aider à préparer [**L'entretien de programmation**](https://github.com/donnemartin/interactive-coding-challenges) ?
+À la recherche de ressources pour vous aider à préparer [**l'entretien de programmation**](https://github.com/donnemartin/interactive-coding-challenges) ?
 
 <p align="center">
   <img src="http://i.imgur.com/b4YtAEN.png">
   <br/>
 </p>
 
-Jetez un oeil au dépôt voisin [**Défis interactifs de programmation**](https://github.com/donnemartin/interactive-coding-challenges), contenant un jeu de cartes Anki supplémentaire:
+Jetez un oeil au dépôt voisin [**Défis Interactifs de Programmation**](https://github.com/donnemartin/interactive-coding-challenges), contenant un jeu de cartes Anki supplémentaire :
 
 
 * [Jeu de cartes de programmation](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards/Coding.apkg)
@@ -73,7 +73,7 @@ Jetez un oeil au dépôt voisin [**Défis interactifs de programmation**](https:
 
 > Apprendre de la communauté.
 
-Libre à vous d'envoyer des pull requests pour aider à:
+N'hésitez-pas à soumettre des pull requests pour aider à :
 
 * Corriger des erreurs
 * Améliorer des sections
@@ -82,11 +82,11 @@ Libre à vous d'envoyer des pull requests pour aider à:
 
 Les sections qui nécessitent des améliorations sont placées dans la section [en développement](#under-development).
 
-Lisez les [directives de contribution](CONTRIBUTING.md).
+Merci de lire les [directives de contribution](CONTRIBUTING.md).
 
 ## Index des sujets de conception de système
 
-> Sommaire de divers sujets de conception de système, incluant les pour et les contre.
+> Sommaire de divers sujets de conception de systèmes, incluant les pour et les contre. **Tout est histoire de compromis**.
 >
 > Chaque section contient des liens vers des ressources approfondies.
 
@@ -95,86 +95,86 @@ Lisez les [directives de contribution](CONTRIBUTING.md).
   <br/>
 </p>
 
-* [Sujets de conception de système: Introduction](#system-design-topics-start-here)
-    * [Étape 1: Regarder la vidéo de mise à l'échelle](#step-1-review-the-scalability-video-lecture)
-    * [Étape 2: Lire l'article sur la mise à l'échelle](#step-2-review-the-scalability-article)
-    * [Étapes suivantes](#next-steps)
-* [Performance vs scalabilité](#performance-vs-scalability)
-* [Latence vs haut débit](#latency-vs-throughput)
-* [Disponibilité vs cohérence](#availability-vs-consistency)
-    * [Théorème CAP ou CDP](#cap-theorem)
-        * [CP - Cohérence et tolérance au Partitionnement](#cp---consistency-and-partition-tolerance)
-        * [DP - Disponibilité et tolérance au partitionnement](#ap---availability-and-partition-tolerance)
-* [Patrons de cohérence](#consistency-patterns)
-    * [Faible cohérence](#weak-consistency)
-    * [Cohérence](#eventual-consistency)
-    * [Cohérence Forte](#strong-consistency)
-* [Patrons de disponibilité](#availability-patterns)
-    * [Basculement](#fail-over)
+* [Sujets de conception de systèmes : Introduction](#sujets-de-conception-de-systemes-introduction)
+    * [Étape 1 : Regarder la vidéo sur la scalabilité](#etape-1-regarder-la-video-sur-la-scalabilite)
+    * [Étape 2 : Lire l'article sur la scalabilité](#etape-2-lire-l-article-sur-la-scalabilite)
+    * [Étapes suivantes](#etapes-suivantes)
+* [Performances vs scalabilité](#performances-vs-scalablite)
+* [Latence vs débit](#latence-vs-debit)
+* [Disponibilité vs cohérence](#disponibilite-vs-coherence)
+    * [Théorème CAP (ou CDP)](#theorem-cap-ou-cdp)
+        * [CP - Cohérence et tolérance au partitionnement](#cp---coherence-et-tolerance-au-partitionnement)
+        * [DP - Disponibilité et tolérance au partitionnement](#dp---disponibilite-et-tolerance-au-partitionnement)
+* [Modèles de cohérence](#modeles-de-coherence)
+    * [Cohérence faible](#coherence-faible)
+    * [Cohérence à terme](#coherence-a-terme)
+    * [Cohérence forte](#coherence-forte)
+* [Modèles de disponibilité](#modeles-de-disponibilite)
+    * [Basculement](#basculement)
     * [Réplication](#replication)
-* [Système de Noms de Domaine](#domain-name-system)
-* [Réseau de diffusion de contenu](#content-delivery-network)
+* [Système de noms de domaine](#systeme-de-noms-de-domaine)
+* [Réseau de diffusion de contenu](#reseau-de-diffusion-de-contenu)
     * [Injection RDC (CDNs)](#push-cdns)
     * [Récupération RDC (CDNs)](#pull-cdns)
-* [Répartiteur de charge](#load-balancer)
-    * [Actif-passif](#active-passive)
-    * [Actif-actif](#active-active)
-    * [Répartition de charge couche 4](#layer-4-load-balancing)
-    * [Répartition de charge couche 7](#layer-7-load-balancing)
-    * [Mise à l'échelle horizontale](#horizontal-scaling)
-* [Proxy inverse (serveur web)](#reverse-proxy-web-server)
-    * [Répartiteur de charge vs Proxy inversé](#load-balancer-vs-reverse-proxy)
-* [Couche Applicative](#application-layer)
+* [Répartiteur de charge](#repartiteur-de-charge)
+    * [Actif-passif](#actif-passif)
+    * [Actif-actif](#actif-actif)
+    * [Répartition de charge couche 4](#repartition-de-charge-couche-4)
+    * [Répartition de charge couche 7](#repartition-de-charge-couche-7)
+    * [Mise à l'échelle horizontale](#mise-a-l-echelle-horizontale)
+* [Proxy inverse (serveur web)](#proxy-inverse-serveur-web)
+    * [Répartiteur de charge vs proxy inverse](#repartiteur-de-charge-vs-proxy-inverse)
+* [Couche applicative](#couche-applicative)
     * [Microservices](#microservices)
-    * [Découverte de service](#service-discovery)
+    * [Découverte de services](#decouverte-de-services)
 * [Base de données](#database)
-    * [Système de Gestion de Base de Données Relationelle (SGBDR)](#relational-database-management-system-rdbms)
-        * [Réplication principale-secondaire](#master-slave-replication)
-        * [Réplication principale-principale](#master-master-replication)
-        * [Féderation](#federation)
-        * [Partitionement](#sharding)
-        * [Dénormalisation](#denormalization)
+    * [Système de Gestion de Base de Données Relationelle (SGBDR)](#systeme-de-gestion-de-base-de-donnees-relationnelle-sgbdr)
+        * [Réplication primaire-secondaire](#replication-primaire-secondaire)
+        * [Réplication primaire-primaire](#replication-primaire-primaire)
+        * [Fédération](#federation)
+        * [Partitionnement](#partitionnement)
+        * [Dénormalisation](#denormalisation)
         * [Optimisation SQL](#sql-tuning)
     * [NoSQL](#nosql)
-        * [Stockage clé-valeur](#key-value-store)
-        * [Stockage de document](#document-store)
-        * [Wide column store](#wide-column-store)
-        * [Base de données orientée graphe](#graph-database)
-    * [SQL ou NoSQL](#sql-or-nosql)
+        * [Stockage clé-valeur](#stockage-cle-valeur)
+        * [Stockage de document](#stockage-de-document)
+        * [Stockage en colonnes](#stockage-en-colonnes)
+        * [Base de données graphes](#base-de-donnees-graphes)
+    * [SQL ou NoSQL](#sql-ou-nosql)
 * [Cache](#cache)
-    * [Mise en cache client](#client-caching)
-    * [RDC (CDN) de caching](#cdn-caching)
-    * [Cache du serveur web](#web-server-caching)
-    * [Cache de base de données](#database-caching)
-    * [Cache applicatif](#application-caching)
-    * [Cache des requêtes de BDD](#caching-at-the-database-query-level)
-    * [Cache des objets](#caching-at-the-object-level)
-    * [Quand mettre à jour le cache](#when-to-update-the-cache)
+    * [Mise en cache côté client](#mise-en-cache-cote-client)
+    * [Mise en cache via RDC (CDN)](#mise-en-cache-de-rdc-cdn)
+    * [Mise en cache côté serveur web](#mise-en-cache-cote-serveur-web)
+    * [Mise en cache côté base de données](#mise-en-cache-cote-base-de-donnees)
+    * [Cache applicatif](#cache-applicatif)
+    * [Cache des requêtes de bases de données](#cache-des-requetes-de-bases-de-donnees)
+    * [Cache des objets](#cache-des-objets)
+    * [Quand mettre à jour le cache](#quand-mettre-a-jour-le-cache)
         * [Cache-aside](#cache-aside)
-        * [Write-through](#write-through)
-        * [Write-behind (write-back)](#write-behind-write-back)
-        * [Refresh-ahead](#refresh-ahead)
-* [Asynchronisme](#asynchronism)
-    * [File d'attente de messages](#message-queues)
-    * [File d'attente de tâches](#task-queues)
-    * [Contre-pression](#back-pressure)
+        * [Écrire à travers](#ecrire-a-travers)
+        * [Écrire derrière](#ecrire-derriere)
+        * [Réplique Read](#replique-read)
+* [Asynchronisme](#asynchronisme)
+    * [Files d'attente de messages](#files-d-attente-de-messages)
+    * [Files d'attente de tâches](#files-d-attente-de-taches)
+    * [Contre-pression](#contre---pression)
 * [Communication](#communication)
-    * [Protocole de contrôle de transmissions (TCP)](#transmission-control-protocol-tcp)
-    * [Protocole de diagramme utilisateur (UDP)](#user-datagram-protocol-udp)
-    * [Appel de procédure à distance (RPC)](#remote-procedure-call-rpc)
-    * [Representational state transfer (REST)](#representational-state-transfer-rest)
-* [Securité](#security)
-* [Appendice](#appendix)
-    * [Tableau Puissance de deux](#powers-of-two-table)
-    * [Les chiffres de latence que chaque programmeur devrait connaître](#latency-numbers-every-programmer-should-know)
-    * [Questions d'entretien supplémentaires sur la conception de système](#additional-system-design-interview-questions)
-    * [Architectures du monde réel](#real-world-architectures)
-    * [Architectures en entreprise](#company-architectures)
-    * [Blogs d'ingénierie de quelques entreprises](#company-engineering-blogs)
-* [En cours](#under-development)
+    * [Protocole de contrôle de transmissions (TCP)](#protocole-de-controle-de-transmissions-tcp)
+    * [Protocole de datagramme utilisateur (UDP)](#protocole-de-datagramme-utilisateur-udp)
+    * [Appel de procédure à distance (RPC)](#appel-de-procedure-a-distance-rpc)
+    * [Transfert d'état représentationnel (REST)](#transfert-d-etat-representationnel-rest)
+* [Securité](#securite)
+* [Annexes](#annexes)
+    * [Tableau des puissances de deux](#tableau-des-puissances-de-deux)
+    * [Les chiffres de latence que chaque programmeur devrait connaître](#les-chiffres-de-latence-que-chaque-programmeur-devrait-connaitre)
+    * [Autres questions d'entretiens de conception de systèmes](#autres-questions-d-entretiens-de-conception-de-systemes)
+    * [Architectures du monde réel](#architectures-du-monde-reel)
+    * [Architectures d'entreprises](#architectures-d-entreprises)
+    * [Blogs d'ingénierie de quelques entreprises](#blogs-d-ingenierie-de-quelques-entreprises)
+* [En cours](#en-cours)
 * [Crédits](#credits)
-* [Contact info](#contact-info)
-* [Licence](#license)
+* [Informations de contact](#informations-de-contact)
+* [Licence](#licence)
 
 ## Guide
 
@@ -375,7 +375,7 @@ Consultez les liens suivants pour avoir une meilleure idée de ce qui est attend
 | Design a circular array | [Contribute](#contributing)  |
 | Add an object-oriented design question | [Contribute](#contributing) |
 
-## System design topics: start here
+## Sujets de conception de systèmes : Introduction
 
 New to system design?
 
