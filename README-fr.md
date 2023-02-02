@@ -95,7 +95,7 @@ Merci de lire les [directives de contribution](CONTRIBUTING.md).
   <br/>
 </p>
 
-* [Sujets de conception de systèmes : Introduction](#sujets-de-conception-de-systemes-introduction)
+* [Sujets de conception de systèmes : Introduction](#sujets-de-conception-de-systemes--introduction)
     * [Étape 1 : Regarder la vidéo sur la scalabilité](#etape-1-regarder-la-video-sur-la-scalabilite)
     * [Étape 2 : Lire l'article sur la scalabilité](#etape-2-lire-l-article-sur-la-scalabilite)
     * [Étapes suivantes](#etapes-suivantes)
